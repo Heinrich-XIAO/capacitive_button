@@ -1,0 +1,38 @@
+{
+  "pcb_placements": [
+    {
+      "selector": "R3",
+      "center": {
+        "x": 3.8786176587334023,
+        "y": -0.47805461014937456
+      },
+      "relative_to": "group_center"
+    },
+    {
+      "selector": "C3",
+      "center": {
+        "x": 0.04937183044846516,
+        "y": 2.6289759782994913
+      },
+      "relative_to": "group_center"
+    },
+    {
+      "selector": "R1",
+      "center": {
+        "x": 4.758823632060892,
+        "y": 1.2579551842201804
+      },
+      "relative_to": "group_center"
+    }
+  ],
+  "schematic_placements": [
+    {
+      "selector": "J2",
+      "center": {
+        "x": 2.1,
+        "y": -0.4
+      },
+      "relative_to": "group_center"
+    }
+  ]
+}
